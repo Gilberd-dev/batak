@@ -1,0 +1,79 @@
+body{
+    background-image: url(../img/background.jpg);
+}
+.footer{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #F7E2D6 ;
+    display:flex; 
+    flex-direction:column; 
+    color: azure;
+    margin-top: 100px;
+    
+  }
+.card-img-top1, .card-img-top2, .card-img-top3, .card-img-top4, .card-img-top5{
+    height: 250px;
+    width: 200px;
+}
+
+.top{
+font-style:normal;
+font-weight: 600, bold;
+font-size: 64px;
+line-height: 80px;
+text-align: center;
+letter-spacing: 0.23em;
+}
+.card-img-top1{
+    margin-left: 650px;
+}
+
+.card-img-top2{
+    margin-left: 300px;
+    margin-top: -200px;
+}
+
+.card-img-top3{
+    margin-left: 230px;
+    margin-top: 50px;
+}
+
+.card-img-top4{
+    margin-left: 990px ;
+    margin-top: -985px;
+}
+
+.card-img-top5{
+    margin-left: 1070px;
+    margin-top: -440px;
+}
+
+.wa{
+    width: 64px;
+    height: 64px;
+    margin-left: 540px;
+    margin-top: 100px;
+}
+.teks{
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 31px;
+text-align: center;
+letter-spacing: 0.1em;
+margin-top: -400px;
+}
+
+.ig{
+    width: 64px;
+    height: 64px;
+    margin-left: 700px;
+    margin-top: -90px;
+}
+
+.fb{
+    width: 64px;
+    height: 64px;
+    margin-left: 860px;
+    margin-top: -140px;
+}

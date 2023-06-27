@@ -1,0 +1,75 @@
+body{
+    background-image: url(../img/background.jpg);
+}
+.footer{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #F7E2D6 ;
+    display:flex; 
+    flex-direction:column; 
+    color: azure;
+    margin-top: 400px;
+    
+  }
+
+.Judul{
+    font-family: 'Goudy Old Style';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 77px;
+}
+.gon{
+    font-family: 'Goudy Old Style';
+    
+}
+
+.gonimg{
+    margin-left: 20px;
+}
+.i1{
+    margin-left: 650px;
+    margin-right: 20px;
+    margin-top: -400px;
+    text-indent: 50px;
+    text-align: justify;
+}
+
+.man{
+    font-family: 'Goudy Old Style';
+    margin-top: 300px;
+}
+
+.manimg{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.i2{
+    margin-top: -400px;
+    margin-left: 650px;
+    
+}
+.i3{
+    margin-top: -400px;
+    margin-left: 620px;
+}
+.mang{
+    font-family: 'Goudy Old Style';
+    margin-top: 350px;
+}
+.mangmg{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.i4{
+    margin-top: -400px;
+    margin-left: 620px;
+}
+.tar{
+    font-family: 'Goudy Old Style';
+    margin-top: 350px;
+}
+.tormg{
+    margin-left: 20px;
+    margin-top: 10px;
+}

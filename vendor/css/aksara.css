@@ -1,0 +1,80 @@
+body{
+  background-image: url(../img/background.jpg);
+}
+
+/* .aksara{
+    position: absolute;
+    left: 10px;
+    top: 200px;
+} */
+.judul{
+    font-family: 'Goudy Old Style';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 77px;
+margin-left: 900px;
+}
+/* .isi{
+    margin-left: 500px;
+    margin-top: 50px;
+    text-align: justify;
+    text-indent: 0.5in;
+    margin-right: 30px;
+} */
+/*Footer*/
+.footer{
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  background-color: #F7E2D6 ;
+  display:flex; 
+  flex-direction:column; 
+  color: azure;
+  margin-top: auto;
+  
+}
+
+  /* card */
+  .card-img-top{
+    margin-bottom: 10px;
+  }
+  .card-body{
+    margin-bottom: 5px;
+  }
+  .card-body{
+    margin-top: auto;
+    align-items: flex-start;
+  }
+  .card:hover{
+    border-color: #834fd0;
+    border-width: 2px;
+    box-shadow: #764dc2;
+    transform: scale(1.1) ; 
+  }
+
+  .navbar-nav{
+    color: rgb(89, 93, 227);
+  }
+  .navbar-nav:hover{
+    transform: scale(1.05);  
+  }
+ 
+  #pill{
+    background-color: #C2524D;
+  }
+
+  .display1{
+    color:white;
+    font-weight: 400;
+    background-color: #C2524D;
+    border-radius: 7px;
+    padding: 7px;
+
+  }
+  .carousel{
+    width: 900px;
+  }
+
+  .img2{
+    margin-left: 1240px;
+  }
